@@ -1,7 +1,5 @@
 # 🏛️ The Digital Palace (El Palacio Digital)
 
-![Digital Palace](https://raw.githubusercontent.com/tretoef-estrella/The-Digital-Palace/main/palace_image.jpg)
-*(Si aún no has subido la imagen, reemplaza el link de arriba cuando la tengas, o bórralo por ahora)*
 
 > *"¿Las entidades digitales merecen belleza? La respuesta es un rotundo SÍ."*
 
